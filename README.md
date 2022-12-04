@@ -9,3 +9,5 @@ An Interactive Dashboard using Power Desktop on Global Superstore Dataset collec
 6. Developing an Interactive BI Dashboard/Report
 
 It is always fun analyzing and finding insights from the data, and feedback is always welcome.
+
+![Uploading image.png…]()
